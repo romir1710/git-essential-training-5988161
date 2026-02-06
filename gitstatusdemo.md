@@ -1,1 +1,1 @@
-status
+status command test
